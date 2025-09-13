@@ -38,3 +38,6 @@ CRÉDITOS: https://www.youtube.com/channel/UCepDNR_IOh9LUwShBBdShMg
 
 ---------------------------------------------------------------------------------------------------------------      
 OBRIGADO PELA ATENÇÃO >:3
+
+
+AVISO: Os arquivos do jogo podem estar desatualizados. O único que será atualizado será o MOGGADOEXECUTE.zip
