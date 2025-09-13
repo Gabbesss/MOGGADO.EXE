@@ -25,14 +25,17 @@ Por que você gastou tempo com isso?
 
 E eu sei lá porra.
 
+---------------------------------------------------------------------------------------------------------------     
+
+Como baixar?
+
+Baixe o arquivo MOGGADOEXECUTE.zip, extráia e abra a pasta MOGGADO, depois bin e Release, depois o net6.0_windows. Lá vai estar o arquivo Moggado.exe, execute-o.
+
 
 ---------------------------------------------------------------------------------------------------------------      
 
 
 CANAL DO CRIADOR: https://www.youtube.com/@gabbeeeeee
-
-BOTÕES: Esc para sair.
-
 CRÉDITOS: https://www.youtube.com/channel/UCepDNR_IOh9LUwShBBdShMg
 
 
