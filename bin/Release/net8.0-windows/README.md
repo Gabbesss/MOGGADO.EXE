@@ -23,7 +23,7 @@ Foi criado com uma ideia simples de um virus totalmente seguro que usou de refer
 
 Como executar?
 
-Entre na pasta bin/Release/net8.0-windows e por fim, MoggadoApp.exe
+Instale o arquivo MOGGADOEXECUTE.
 
 
 ---------------------------------------------------------------------------------------------------------------    
