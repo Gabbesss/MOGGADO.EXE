@@ -1,16 +1,15 @@
 using System;
 using System.Windows.Forms;
 
-namespace MoggadoApp
+namespace MoggadoSim
 {
-    internal static class Program
+    static class Program
     {
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MeltSequenceForm());
+            ApplicationConfiguration.Initialize();
+            Application.Run(new SimulatedMeltForm());
         }
     }
 }
