@@ -1,0 +1,14 @@
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\bin\Release\net8.0-windows\MoggadoApp.exe
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\bin\Release\net8.0-windows\MoggadoApp.deps.json
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\bin\Release\net8.0-windows\MoggadoApp.runtimeconfig.json
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\bin\Release\net8.0-windows\MoggadoApp.dll
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\bin\Release\net8.0-windows\MoggadoApp.pdb
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\obj\Release\net8.0-windows\MoggadoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\obj\Release\net8.0-windows\MoggadoApp.AssemblyInfoInputs.cache
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\obj\Release\net8.0-windows\MoggadoApp.AssemblyInfo.cs
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\obj\Release\net8.0-windows\MoggadoApp.csproj.CoreCompileInputs.cache
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\obj\Release\net8.0-windows\MoggadoApp.dll
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\obj\Release\net8.0-windows\refint\MoggadoApp.dll
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\obj\Release\net8.0-windows\MoggadoApp.pdb
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\obj\Release\net8.0-windows\MoggadoApp.genruntimeconfig.cache
+C:\Users\Heitor Gabry\Downloads\MoggadoApp_overlay\MoggadoApp\obj\Release\net8.0-windows\ref\MoggadoApp.dll
